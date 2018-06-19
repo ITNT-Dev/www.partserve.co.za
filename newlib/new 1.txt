@@ -1,0 +1,8 @@
+git config --global user.email "truminnd@gmail.com"
+  git config --global user.name "Ntiyiso Rikhotso"
+  
+  git remote add origin remote repository git@github.com:Ntiyiso-Rikhotso/nac.git
+git remote -v
+# Verifies the new remote URL
+
+ssh-keygen -t rsa -b 4096 -C "truminnd@gmail.com"

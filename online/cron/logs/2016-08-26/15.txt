@@ -1,0 +1,2 @@
+2016-08-26 15:58:57 PM: jobinfoweb - Success - retrieved and updated record for the job 'JN167557'
+2016-08-26 15:58:57 PM: JobUpdateCustomer - Success - retrieved and updated record for customer ''
