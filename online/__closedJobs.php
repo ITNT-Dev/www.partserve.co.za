@@ -15,7 +15,6 @@ $userId = $_SESSION['userId'];
 if ($userId < 1 ) {
   header("Location: ../onlinejobtracking.php");
   exit();
-  
   // echo "User ID: " . $_SESSION['userId'] . "<br>";
 }
 
